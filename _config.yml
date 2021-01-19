@@ -70,18 +70,18 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               :DavidGent18
+#facebook:
+  #username               :
+ #app_id                 :
+ # publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+  #type                   : # Person or Organization (defaults to Person)
+  #name                   : # If the user or organization name differs from the site's name
+  #links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michele Wiseman"
+  name             : "Dave Gent"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student in the lab"
+  bio              : "Research Plant Pathologist"
   location         : "Corvallis, OR"
-  email            :
+  email            : "dave.gent@usda.gov"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
