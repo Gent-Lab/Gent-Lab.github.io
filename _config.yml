@@ -8,7 +8,6 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -101,21 +100,21 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "dave.gent@usda.gov"
+    - label: "Lab Page"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://gent-lab.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
+      url: "https://twitter.com/DavidGent18"
+    - label: "Northwest Hop Information Network"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/pg/Northwest-Hop-Information-Network-147514331928522/about/?ref=page_internal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/Gent-Lab/"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -123,21 +122,21 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/DavidGent18"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      icon: "fab fa-fw fa-facebook-square 
+      url: "https://www.facebook.com/pg/Northwest-Hop-Information-Network-147514331928522/about/?ref=page_internal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/Gent-Lab/"
+    - #label: "GitLab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - #label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url:
 
 
